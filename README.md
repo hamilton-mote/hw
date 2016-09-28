@@ -23,7 +23,7 @@ A hamilton board will have a sensor variant designator in its name, for example 
 So far, we have produced three hamilton bundles:
 
 - Hamilton-7 (4+2+1), which costs $10 including the sensors and is designed for cost-sensitive applications
-- Hamilton-3C (20+10+8+4), cost TBD, which is designed as an operative temperature sensor with acceleration
-- Hamilton-7C (40+20+10+8+4), cost TBD, which adds occupancy
+- Hamilton-3C (20+10+8+4), cost TBD, which is designed as an operative temperature sensor with acceleration/magnetometer so it can determine its orientation in the space
+- Hamilton-7C (40+20+10+8+4), cost TBD, which adds occupancy (the occupancy sensor doubles the cost of the board)
 
 The expected battery life of each of these variants will be put on here when they have been characterised
