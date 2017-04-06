@@ -10,8 +10,9 @@ The primary operating system we support is RIOT-OS. Soon we hope to get support 
 
 A hamilton board will have a sensor variant designator in its name, for example hamilton-3 or hamilton-1f. This variant indicates the presence of a subset of the following sensors
 
+
 | Designation  | Description | Part number |
-| --- | --- | --- | --- |
+|:-------:|:-------:|:------:|
 |  1 | Low-cost temperature sensor | AT30TS74 |
 |  2 | Low-cost 3-axis accelerometer | MMA7660 |
 |  4 | Light sensor | ADPS7007 |
