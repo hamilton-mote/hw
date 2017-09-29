@@ -15,7 +15,7 @@ A hamilton board will have a sensor variant designator in its name, for example 
 |:-------:|:-------:|:------:|
 |  1 | Low-cost temperature sensor | AT30TS74 |
 |  2 | Low-cost 3-axis accelerometer | MMA7660 |
-|  4 | Light sensor | ADPS7007 |
+|  4 | Light sensor | APDS-9007 |
 |  8 | High-precision 3-axis accel/magnetometer | FXOS8700 |
 | 10 | Temp / Humidity sensor | HDC1080 |
 | 20 | Temp / Radiant sensor | TMP006 |
