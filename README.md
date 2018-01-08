@@ -20,6 +20,7 @@ A hamilton board will have a sensor variant designator in its name, for example 
 | 10 | Temp / Humidity sensor | HDC1080 |
 | 20 | Temp / Radiant sensor | TMP006 |
 | 40 | PIR sensor | EKMB110x11x |
+| 80 | Ultrasonic ranger | CH201 |
 
 So far, we have produced three hamilton bundles:
 
