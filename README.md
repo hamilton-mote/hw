@@ -21,6 +21,8 @@ A hamilton board will have a sensor variant designator in its name, for example 
 | 20 | Temp / Radiant sensor | TMP006 |
 | 40 | PIR sensor | EKMB110x11x |
 | 80 | Ultrasonic ranger | CH201 |
+| 100 | High-prevision 3-axis accel/magnetometer | LSM303C |
+| 200 | Light sensor | ISL29035 |
 
 So far, we have produced three hamilton bundles:
 
